@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/recipies/static/css/main.de11692e.css",
+    "main.js": "/recipies/static/js/main.77ac65d6.js",
+    "index.html": "/recipies/index.html",
+    "main.de11692e.css.map": "/recipies/static/css/main.de11692e.css.map",
+    "main.77ac65d6.js.map": "/recipies/static/js/main.77ac65d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de11692e.css",
+    "static/js/main.77ac65d6.js"
+  ]
+}
